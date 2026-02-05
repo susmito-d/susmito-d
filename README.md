@@ -1,5 +1,15 @@
 # 👻 About Me:
-### ☘️ Welcome to THE INVENTOR’S CORE | R&D LAB<br><br>I am **Susmito**, a dedicated learner and aspiring inventor. My journey is all about exploring the "why" behind technology and building things from the ground up.<br><br>- 🌼 **Mission:** Building a strong foundation in tech with the dream of joining the Google Empire.<br>- 🌻 **Current Lab Work:** Focusing on logic-building and simulating the **Enigma Machine**.<br>- 🌷 **Growth:** I’m constantly learning new tools and languages to turn my ideas into reality.<br>- 🌹 **Philosophy:** *"Whatever you do, do it as an offering to the Divine."* — Sri Krishna ❤️<br>- ❤️ **Inspiration:** My work and my life are dedicated to my legacy and my strength, **Buri**.<br><br>*"Learning is the first step of any great invention."*<br>
+### ☘️ Welcome to THE INVENTOR’S CORE | R&D LAB
+
+I am **Susmito**, a dedicated learner and aspiring inventor. My journey is all about exploring the "why" behind technology and building things from the ground up.
+
+- 🌼 **Mission:** Building a strong foundation in tech with the dream of joining the Google Empire.
+- 🌻 **Current Lab Work:** Focusing on logic-building and simulating the **Enigma Machine**.
+- 🌷 **Growth:** I’m constantly learning new tools and languages to turn my ideas into reality.
+- 🌹 **Philosophy:** *"Whatever you do, do it as an offering to the Divine."* — Sri Krishna ❤️
+- ❤️ **Inspiration:** My work and my life are dedicated to my legacy and my strength, **my Buri**.
+
+> *"Learning is the first step of any great invention."*
 
 
 ## 🌐 Socials:
