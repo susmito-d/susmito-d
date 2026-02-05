@@ -28,27 +28,14 @@ I am **Susmito**, a dedicated learner and aspiring inventor. My journey is all a
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=susmito-d&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=susmito-d&theme=blue-green&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susmito-d&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=susmito-d&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=susmito-d&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
 ---
+
+<div align="center">
+  <h3><code>" Silent Shapes The Surge "</code></h3>
+  <b>— Susmito 🛡️</b>
+</div>
+
+<br>
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=susmito-d&icon=7&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=susmito-d&label=Lab%20Visitors&color=0e75b6&style=flat-square" alt="Lab Visitors" />
 </p>
