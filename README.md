@@ -30,25 +30,25 @@ I am **Susmito**, a dedicated learner and aspiring inventor. My journey is all a
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=susmito-d&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=susmito-d&theme=blue-green&hide_border=false" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=susmito-d&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=susmito-d&theme=blue-green&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susmito-d&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susmito-d&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=susmito-d&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=susmito-d&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=susmito-d&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Repo Stats" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=susmito-d&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 <p align="center">
-<a href="https://visitcount.itsvg.in/api?id=susmito-d&icon=7&color=0"><img src="https://visitcount.itsvg.in/api?id=susmito-d&icon=7&color=0" alt="Visitor Count" /></a>
+  <img src="https://visitcount.itsvg.in/api?id=susmito-d&icon=7&color=0" />
 </p>
