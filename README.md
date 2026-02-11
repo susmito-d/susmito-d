@@ -16,7 +16,7 @@ Welcome to the heart of **TAISU**. I am **Susmito**, an aspiring inventor and ar
 - 🧪 **Current Lab Operations:** Deep-diving into advanced Python logic and simulating the **Enigma Machine** to master cryptography and computation.
 - 🧬 **The Vision:** Transforming lines of code into a global tech empire.
 - 🔱 **Philosophy:** *"Whatever you do, do it as an offering to the Divine."* — Sri Krishna.
-- ☘️ **Legacy & Strength:** Every innovation, every late-night code, and every success is dedicated to my soulmate and my strength, **Taiyeba (Buri)**. 
+- ☘️ **Legacy & Strength:** Every innovation, every late-night code, and every success is dedicated to my soulmate and my strength, **Buri**. 
 
 > *"Silence shapes the surge, and innovation defines the architect."*
 
