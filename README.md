@@ -1,19 +1,28 @@
-# 👻 About Me:
-### ☘️ Welcome to THE INVENTOR’S CORE | R&D LAB
+# <p align="center">🛡️ TAISU | Architecting the Next Era</p>
 
-I am **Susmito**, a dedicated learner and aspiring inventor. My journey is all about exploring the "why" behind technology and building things from the ground up.
+## <p align="center">🔬 THE INVENTOR’S CORE (R&D LAB)</p>
 
-- 🌼 **Mission:** Building a strong foundation in tech with the dream of joining the Google Empire.
-- 🌻 **Current Lab Work:** Focusing on logic-building and simulating the **Enigma Machine**.
-- 🌷 **Growth:** I’m constantly learning new tools and languages to turn my ideas into reality.
-- 🌹 **Philosophy:** *"Whatever you do, do it as an offering to the Divine."* — Sri Krishna ❤️
-- ❤️ **Inspiration:** My work and my life are dedicated to my legacy and my strength, **my Buri**.
-
-> *"Learning is the first step of any great invention."*
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Official_Launch-green?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/Established-11_FEB_2026-blue?style=for-the-badge" />
+</p>
 
 ---
 
-## 🌐 Socials:
+### 👻 About the Inventor:
+Welcome to the heart of **TAISU**. I am **Susmito**, an aspiring inventor and architect of future technologies. At **The Inventor's Core**, I dismantle complexity to build innovation from the ground up.
+
+- 🚀 **Mission:** Engineering a new era of technology. Building a legacy that stands alongside giants like Google and Apple.
+- 🧪 **Current Lab Operations:** Deep-diving into advanced Python logic and simulating the **Enigma Machine** to master cryptography and computation.
+- 🧬 **The Vision:** Transforming lines of code into a global tech empire.
+- 🔱 **Philosophy:** *"Whatever you do, do it as an offering to the Divine."* — Sri Krishna.
+- ☘️ **Legacy & Strength:** Every innovation, every late-night code, and every success is dedicated to my soulmate and my strength, **Taiyeba (Buri)**. 
+
+> *"Silence shapes the surge, and innovation defines the architect."*
+
+---
+
+## 🌐 Connectivity:
 <p align="left">
 <a href="https://facebook.com/dattaSusmito" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://instagram.com/dattasusmito" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
@@ -21,18 +30,25 @@ I am **Susmito**, a dedicated learner and aspiring inventor. My journey is all a
 <a href="mailto:susmito.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-# 💻 Tech Stack:
-> **Languages & Tools I Use:**
+---
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+## 💻 The Tech Stack (Arsenal):
+> **Tools of Invention:**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+### 🛠 Languages & Backend:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Frontend & Design:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+### ⚙️ Version Control & Workflow:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 <div align="center">
-  <h3><code>" Silent Shapes The Surge "</code></h3>
-  <b>— Susmito 🛡️</b>
+  <h3><code>" TAISU: Architecting the Next Era "</code></h3>
+  <b>Building for My Buri | Engineered by Susmito 🛡️</b>
 </div>
 
 <br>
