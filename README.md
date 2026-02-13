@@ -9,7 +9,7 @@
 
 ---
 
-### 👻 About the Inventor:
+### 👻 About Me:
 Welcome to the heart of **TAISU**. I am **Susmito**, an aspiring inventor and architect of future technologies. At **The Inventor's Core**, I dismantle complexity to build innovation from the ground up.
 
 - 🌼 **Mission:** Engineering a new era of technology. Building a legacy that stands alongside giants like Google and Apple.
@@ -35,7 +35,7 @@ Welcome to the heart of **TAISU**. I am **Susmito**, an aspiring inventor and ar
 ## ❤️ The Tech Stack (Arsenal):
 > **Tools of Invention:**
 
-### 🛠 Languages & Backend:
+### ❤️ Languages & Backend:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ❤️ Frontend & Design:
