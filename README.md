@@ -1,4 +1,4 @@
-# <p align="center">🛡️ TAISU | Architecting the Next Era</p>
+# <p align="center">🌼 TAISU | Architecting the Next Era</p>
 
 ## <p align="center">THE INVENTOR’S CORE | R&D LAB</p>
 
