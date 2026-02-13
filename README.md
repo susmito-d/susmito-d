@@ -32,7 +32,7 @@ Welcome to the heart of **TAISU**. I am **Susmito**, an aspiring inventor and ar
 
 ---
 
-## ❤️ The Tech Stack (Arsenal):
+## ❤️ The Tech Stack:
 > **Tools of Invention:**
 
 ### Languages & Backend:
