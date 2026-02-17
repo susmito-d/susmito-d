@@ -13,7 +13,7 @@
 Welcome to the heart of **TAISU**. I am **Susmito**, an aspiring inventor and architect of future technologies. At **The Inventor's Core**, I dismantle complexity to build innovation from the ground up.
 
 - 🌼 **Mission:** Engineering a new era of technology. Building a legacy that stands alongside giants like Google and Apple.
-- 🌻 **Current Lab Operations:** Deep-diving into advanced Python logic and simulating the **Enigma Machine** to master cryptography and computation.
+- 🌻 **Current Lab Operations:** Making a unique space shooter game using pygame.
 - 🌷 **The Vision:** Transforming lines of code into a global tech empire.
 - 🌸 **Philosophy:** *"Whatever you do, do it as an offering to the Divine."* — Sri Krishna.
 - ☘️ **Legacy & Strength:** Every innovation, every late-night code, and every success is dedicated to my soulmate and my strength, **Buri**. 
