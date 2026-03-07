@@ -1,7 +1,9 @@
 # <p align="center"><code>Hi, I'm Susmito 👻</code></p>
 <p align="center">
-  <b><code>Aspiring Inventor | Architect of Future Technologies</code></b><br>
-  <code>Silence shapes the surge, and innovation defines the architect.</code>
+  <a href="https://github.com/susmito-d">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Architect+of+Future+Technologies;Aspiring+Inventor+%26+Engineer;Building+the+TAISU+Ecosystem;Developing+AEON+SHIELD&font=Fira+Code&center=true&width=440&height=45&color=3670A0&vCenter=true&pause=1000&size=22" />
+  </a><br>
+  <code><b>Silence shapes the surge, and innovation defines the architect.</b></code>
 </p>
 
 <p align="center">
