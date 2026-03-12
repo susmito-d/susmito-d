@@ -1,4 +1,4 @@
-# <p align="center"><code>Hi, I'm Susmito 👻</code></p>
+# <p align="center"><code>Hi, I'm Susmito (Mr. Hero)👻</code></p>
 <p align="center">
   <a href="https://github.com/susmito-d">
     <img src="https://readme-typing-svg.demolab.com/?lines=Architect+of+Future+Technologies;Aspiring+Inventor+%26+Engineer;Building+the+TAISU+Ecosystem;Developing+AEON+SHIELD&font=Fira+Code&center=true&width=440&height=45&color=3670A0&vCenter=true&pause=1000&size=22" />
